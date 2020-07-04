@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnmul" type="id" />
+    <item name="btneql" type="id" />
+    <item name="btncl" type="id" />
+</resources>
